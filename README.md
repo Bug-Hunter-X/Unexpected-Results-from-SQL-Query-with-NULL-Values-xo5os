@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error involving NULL values in comparisons. The `bug.sql` file contains a query that produces unexpected results due to the handling of NULLs. The `bugSolution.sql` file offers a corrected version.
